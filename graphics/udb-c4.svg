@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6.2999992mm"
+   height="2.4835594mm"
+   viewBox="0 0 6.2999993 2.4835594"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="udb-c4.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="8.8520641"
+     inkscape:cx="14.572872"
+     inkscape:cy="-2.6547481"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="305"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-107.0106"
+       y="467.72107"
+       width="1711.0663"
+       height="486.34738"
+       id="rect186" />
+    <rect
+       x="-107.0106"
+       y="467.72107"
+       width="1711.0663"
+       height="486.34738"
+       id="rect368" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-170.79472,-130.9874)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.03057064,0,0,0.03057064,151.06066,111.20661)"
+       id="text184"
+       style="font-size:40px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;white-space:pre;shape-inside:url(#rect186)"
+       x="103.08002"
+       y="0"><tspan
+         x="643.0434"
+         y="503.1207"
+         id="tspan425"><tspan
+           style="font-family:Pirulen;-inkscape-font-specification:Pirulen;text-align:center;text-anchor:middle"
+           id="tspan423">Unified
+</tspan></tspan><tspan
+         x="713.00342"
+         y="556.20072"
+         id="tspan429"><tspan
+           style="font-family:Pirulen;-inkscape-font-specification:Pirulen;text-align:center;text-anchor:middle"
+           id="tspan427">C4</tspan></tspan></text>
+    <g
+       aria-label="Unified
+C4"
+       transform="matrix(0.03057064,0,0,0.03057064,151.06066,116.46755)"
+       id="text366"
+       style="font-size:40px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;white-space:pre;shape-inside:url(#rect368)">
+      <path
+         d="m 672.9634,503.1207 c 6.4,0 7.72,-2.76 7.72,-6.8 v -21.36 h -5.32 v 21.4 c 0,1.68 -1.12,2.6 -3.52,2.6 h -17.48 c -2.4,0 -3.52,-0.92 -3.52,-2.6 v -21.4 h -5.32 v 21.36 c 0,4.04 2.44,6.8 8.84,6.8 z"
+         style="font-family:Pirulen;-inkscape-font-specification:Pirulen;text-align:center;text-anchor:middle"
+         id="path370" />
+      <path
+         d="m 723.04341,503.1207 v -28.16 h -4.64 v 20.92 l -28.04,-20.92 h -4.6 v 28.16 h 4.64 v -21.92 l 30.04,21.92 z"
+         style="font-family:Pirulen;-inkscape-font-specification:Pirulen;text-align:center;text-anchor:middle"
+         id="path372" />
+      <path
+         d="m 733.76342,503.1207 v -28.16 h -5.32 v 28.16 z"
+         style="font-family:Pirulen;-inkscape-font-specification:Pirulen;text-align:center;text-anchor:middle"
+         id="path374" />
+      <path
+         d="m 766.52345,491.5207 v -4.16 h -22.04 v -8.24 h 23.64 v -4.16 h -28.96 v 28.16 h 5.32 v -11.6 z"
+         style="font-family:Pirulen;-inkscape-font-specification:Pirulen;text-align:center;text-anchor:middle"
+         id="path376" />
+      <path
+         d="m 776.52343,503.1207 v -28.16 h -5.32 v 28.16 z"
+         style="font-family:Pirulen;-inkscape-font-specification:Pirulen;text-align:center;text-anchor:middle"
+         id="path378" />
+      <path
+         d="m 810.88346,503.1207 v -4.16 h -23.64 v -8.64 h 22.44 v -4.16 h -22.44 v -7.04 h 23.64 v -4.16 h -28.96 v 28.16 z"
+         style="font-family:Pirulen;-inkscape-font-specification:Pirulen;text-align:center;text-anchor:middle"
+         id="path380" />
+      <path
+         d="m 841.20345,503.1207 c 7.96,0 10.4,-2.76 10.4,-8.04 v -11.8 c 0,-5.56 -2.44,-8.32 -10.4,-8.32 h -25.8 v 28.16 z m 5.08,-8.08 c 0,3 -1.12,3.92 -5.08,3.92 h -20.48 v -19.84 h 20.48 c 3.96,0 5.08,0.92 5.08,4.16 z"
+         style="font-family:Pirulen;-inkscape-font-specification:Pirulen;text-align:center;text-anchor:middle"
+         id="path382" />
+      <path
+         d="m 746.92342,556.20072 v -4.16 h -22.68 c -2.4,0 -3.52,-0.92 -3.52,-2.6 v -14.64 c 0,-1.68 1.12,-2.6 3.52,-2.6 h 22.68 v -4.16 h -22.68 c -6.4,0 -8.84,2.76 -8.84,6.8 v 14.56 c 0,4.04 2.44,6.8 8.84,6.8 z"
+         style="font-family:Pirulen;-inkscape-font-specification:Pirulen;text-align:center;text-anchor:middle"
+         id="path384" />
+      <path
+         d="m 780.16344,556.20072 v -4.8 h 2.96 v -4.16 h -2.96 v -19.2 h -5.32 v 19.2 h -19.08 l 14.32,-19.2 h -5.76 l -14.88,20 v 3.36 h 25.4 v 4.8 z"
+         style="font-family:Pirulen;-inkscape-font-specification:Pirulen;text-align:center;text-anchor:middle"
+         id="path386" />
+    </g>
+  </g>
+</svg>
