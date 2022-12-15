@@ -2,4 +2,5 @@
   (lib (name "acheron_Connectors")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Connectors.pretty")(options "")(descr ""))
   (lib (name "acheron_Components")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Components.pretty")(options "")(descr ""))
   (lib (name "Unified-Daughterboard-Logo")(type "KiCad")(uri "${KIPRJMOD}/libraries/UDB_logo.pretty")(options "")(descr ""))
+  (lib (name "locallib")(type "KiCad")(uri "${KILIB}/UDB-C4/libraries/locallib.pretty")(options "")(descr ""))
 )
