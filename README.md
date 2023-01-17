@@ -1,6 +1,6 @@
-# Unified Daughterboard C4
+# Unified Daughterboard C Seriesb
 
-![photo](https://github.com/Unified-Daughterboard/UDB-C4/raw/main/resources/uDB-C4-photo.jpg)
+![photo](https://github.com/Unified-Daughterboard/UDB-C/raw/main/resources/uDB-C4-photo.jpg)
 
 ## Introduction
 The Unified Daughterboard Project is an open standard to unify the USB daughterboards used in custom mechanical keyboard projects.  
@@ -9,7 +9,7 @@ The Unified Daughterboard allows designers to easily implementing electrical pro
 For more details on the Unified Daughterboard project, see the [main website](https://unified-daughterboard.github.io/).
 
 
-## C4 version
+## C Series
 
 The C4 daughterboard is the current most recent revision to the classic square form-factor daughterboard, with its roots in the C1 which was designed to be compatible with Wilba's keyboards.
 The daughterboard features the following:
@@ -20,13 +20,13 @@ The daughterboard features the following:
 - Same form factor as the older C3 series, allowing for daughterboard upgrades
 
 
-## Using C4 in your design
+## Using the C series uDB in your design
 Please [visit the docs](https://unified-daughterboard.github.io/) for detailed implementation references and notices.  
 
 
 ## Previews
-![Render](https://github.com/Unified-Daughterboard/UDB-C4/raw/main/resources/uDB-C4-render-front.jpg)
-![Render](https://github.com/Unified-Daughterboard/UDB-C4/raw/main/resources/uDB-C4-render-rear.jpg)
+![Render](https://github.com/Unified-Daughterboard/UDB-C/raw/main/resources/uDB-C4-render-front.jpg)
+![Render](https://github.com/Unified-Daughterboard/UDB-C/raw/main/resources/uDB-C4-render-rear.jpg)
 
 
 ## Credits
