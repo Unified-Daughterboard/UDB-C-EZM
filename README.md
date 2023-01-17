@@ -25,8 +25,8 @@ Please [visit the docs](https://unified-daughterboard.github.io/) for detailed i
 
 
 ## Previews
-![Render](https://github.com/Unified-Daughterboard/UDB-C4/raw/main/assets/uDB-C4-render-front.jpg)
-![Render](https://github.com/Unified-Daughterboard/UDB-C4/raw/main/assets/uDB-C4-render-rear.jpg)
+![Render](https://github.com/Unified-Daughterboard/UDB-C4/raw/main/resources/uDB-C4-render-front.jpg)
+![Render](https://github.com/Unified-Daughterboard/UDB-C4/raw/main/resources/uDB-C4-render-rear.jpg)
 
 
 ## Credits
