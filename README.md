@@ -1,4 +1,4 @@
-# Unified Daughterboard C Seriesb
+# Unified Daughterboard C Series
 
 ![photo](https://github.com/Unified-Daughterboard/UDB-C/raw/main/resources/uDB-C4-photo.jpg)
 
