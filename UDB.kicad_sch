@@ -1746,7 +1746,7 @@
     (property "Value" "X1224WRS-04-LPV01" (id 1) (at 243.84 78.105 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "acheron_Connectors:MOLEX_781710004_MountingReliefs" (id 2) (at 241.3 77.47 0)
+    (property "Footprint" "locallib:PicoEZMate-Reinforced-Alt" (id 2) (at 241.3 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 241.3 77.47 0)
@@ -2466,7 +2466,7 @@
       (reference "J1") (unit 1) (value "TYPE-C-31-M12_13") (footprint "acheron_Connectors:TYPE-C-31-M-12")
     )
     (path "/00000000-0000-0000-0000-00005c91afcb"
-      (reference "J2") (unit 1) (value "X1224WRS-04-LPV01") (footprint "acheron_Connectors:MOLEX_781710004_MountingReliefs")
+      (reference "J2") (unit 1) (value "X1224WRS-04-LPV01") (footprint "locallib:PicoEZMate-Reinforced-Alt")
     )
     (path "/00000000-0000-0000-0000-00005e78ff8f"
       (reference "L1") (unit 1) (value "60R@100MHz") (footprint "Inductor_SMD:L_1206_3216Metric")
