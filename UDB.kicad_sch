@@ -2087,7 +2087,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e78a38e)
     (property "Reference" "F1" (id 0) (at 107.315 80.645 90))
-    (property "Value" "ASMD1206-150" (id 1) (at 107.315 82.3214 90)
+    (property "Value" "ASMD1206-200" (id 1) (at 107.315 82.3214 90)
       (effects (font (size 0.508 0.508)))
     )
     (property "Footprint" "Fuse:Fuse_1206_3216Metric" (id 2) (at 112.395 83.82 0)
@@ -2099,7 +2099,7 @@
     (property "Manufacturer" "Shenzhen JDT Fuse" (id 4) (at 107.315 85.09 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Manufacturer Part Number" "ASMD1206-150" (id 5) (at 107.315 85.09 90)
+    (property "Manufacturer Part Number" "ASMD1206-200" (id 5) (at 107.315 85.09 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "LCSC Part Number" "C135342" (id 6) (at 107.315 85.09 90)
@@ -2454,7 +2454,7 @@
       (reference "D1") (unit 1) (value "SMF6.0A") (footprint "acheron_Components:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005e78a38e"
-      (reference "F1") (unit 1) (value "ASMD1206-150") (footprint "Fuse:Fuse_1206_3216Metric")
+      (reference "F1") (unit 1) (value "ASMD1206-200") (footprint "Fuse:Fuse_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-00005e790861"
       (reference "G1") (unit 1) (value "Unified-Daughterboard-Logo") (footprint "Unified-Daughterboard-Logo:Unified-Daughterboard-Logo.pretty")
