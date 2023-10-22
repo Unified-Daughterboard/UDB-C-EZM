@@ -19,7 +19,7 @@ The daughterboard features the following:
 - 1:1 connector pinout to retain compatibility with existing PCBs
 - Same form factor as the older C3 series, allowing for daughterboard upgrades
   
-**This is the EZM variant using the Pico-EZMate connector.**
+**This is the EZM variant using the Pico-EZMate connector.**  
 For background on why two variants exist, please see the [announcement post](https://unified-daughterboard.github.io/#/announcements/announcement-20231022).
 
 
