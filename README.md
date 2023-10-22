@@ -22,6 +22,7 @@ The daughterboard features the following:
 **This is the EZM variant using the Pico-EZMate connector.**  
 For background on why two variants exist, please see the [announcement post](https://unified-daughterboard.github.io/#/announcements/announcement-20231022).
 
+The C5 version of the daughterboard was split into two versions: C-JSH and C-PEM, repectively pertaining to versions using the JST-SH connector and the MOLEX EZMate connector.
 
 ## Using the C series uDB in your design
 Please [visit the docs](https://unified-daughterboard.github.io/) for detailed implementation references and notices.  
