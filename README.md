@@ -1,4 +1,4 @@
-# Unified Daughterboard C Series
+# Unified Daughterboard C Series - EZM variant
 
 ![photo](https://github.com/Unified-Daughterboard/UDB-C/raw/main/resources/uDB-C4-photo.jpg)
 
@@ -15,8 +15,12 @@ The C5 daughterboard is the current most recent revision to the classic square f
 The daughterboard features the following:
 
 - ESD protection, overcurrent protection, overvoltage protection, shielding noise decoupling, and single-path grounding to chassis functionality
+- Two variants: The new Molex Pico-EZmate and the classic JST-SH
 - 1:1 connector pinout to retain compatibility with existing PCBs
 - Same form factor as the older C3 series, allowing for daughterboard upgrades
+  
+**This is the EZM variant using the Pico-EZMate connector.**  
+For background on why two variants exist, please see the [announcement post](https://unified-daughterboard.github.io/#/announcements/announcement-20231022).
 
 The C5 version of the daughterboard was split into two versions: C-JSH and C-PEM, repectively pertaining to versions using the JST-SH connector and the MOLEX EZMate connector.
 
